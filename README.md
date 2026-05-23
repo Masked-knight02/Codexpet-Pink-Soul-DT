@@ -12,6 +12,10 @@ Pink Soul DT is also available on CodexPet:
 
 https://codexpet.xyz/pets/community/pink-soul-dt/
 
+## Disclaimer
+
+Fan-made project. Not affiliated with or endorsed by David Tao, his label, or any official Soul Power project.
+
 ## Petdex Package
 
 This repository contains the two files needed for the pet package:
