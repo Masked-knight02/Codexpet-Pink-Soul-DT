@@ -6,6 +6,12 @@ Pink Soul DT is a chibi Petdex pet inspired by pink soul-stage energy.
 
 ![Pink Soul DT contact sheet](assets/contact-sheet.png)
 
+## Community Page
+
+Pink Soul DT is also available on CodexPet:
+
+https://codexpet.xyz/pets/community/pink-soul-dt/
+
 ## Petdex Package
 
 This repository contains the two files needed for the pet package:
